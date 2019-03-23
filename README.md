@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/build%20-success-brightgreen.svg)
+![](https://img.shields.io/stackexchange/stackoverflow/qm/python.svg?style=plastic)
 ![](https://github.com/hanqiulun/Python_Development_Interview/blob/master/Static/python_interview.png)
 # Python_Development_Interview
 
