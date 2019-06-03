@@ -5,7 +5,7 @@
 ![](https://github.com/hanqiulun/Python_Development_Interview/blob/master/Static/python_interview.png)
 # Python_Development_Interview
 
-:gift_heart::gift_heart:借鉴大佬们的经验逐步完善这个项目 :grin::grin::grin:
+:gift_heart::gift_heart:借鉴大佬们的经验逐步完善这个项目 :grin::grin::grin::grin:
 
 ## 1. Project Directory Structure
 
